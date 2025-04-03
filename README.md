@@ -32,7 +32,7 @@ This project focuses on building predictive models to estimate house prices. The
 
 ## Data Description
 
-The `House_Sales_King_County_USA.csv` dataset includes the following features:
+The [House_Sales_King_County_USA.csv](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download) dataset includes the following features:
 
 * **`id`:** Unique identifier for each house.
 * **`date`:** Date of the house sale.
