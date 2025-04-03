@@ -1,3 +1,4 @@
+![image alt]()
 # House Price Prediction
 
 This repository contains the data and code used for a project that aims to predict house prices using machine learning models. By analyzing features such as square footage, number of bedrooms, and location, we explore the factors that influence real estate values.
