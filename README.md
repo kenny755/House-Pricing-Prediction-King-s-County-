@@ -107,7 +107,7 @@ To run the project:
 
 1.  Clone this repository to your local machine.
 2.  Ensure you have Jupyter Notebook and the necessary Python libraries installed (pandas, scikit-learn, seaborn, matplotlib).
-3.  Open the `IBM project.ipynb` file using Jupyter Notebook.
+3.  Open the [Note book](https://github.com/kenny755/House-Pricing-Prediction-King-s-County-/blob/main/Real%20Estate%20Investment%20roject%20(1).ipynb) file using Jupyter Notebook.
 4.  Run the cells in the notebook sequentially to execute the code.
 
 ## Contributing
