@@ -18,7 +18,7 @@ This repository contains the data and code used for a project that aims to predi
     * [4.5. Visualization](#45-visualization)
 5.  [Usage](#usage)
 6.  [Contributing](#contributing)
-7.  [License](#license)
+
 
 ## Project Overview
 
@@ -114,5 +114,4 @@ To run the project:
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue.
 
-## License
 
